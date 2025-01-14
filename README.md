@@ -2,6 +2,8 @@
 
 I am a student studying computer science at the University of Warwick, passionate about solving real-world problems using cutting-edge technology. I love learning and applying new skills to challenging problems.
 
+#
+
 ### 🧰 Languages and tools
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
