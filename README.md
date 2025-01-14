@@ -1,4 +1,4 @@
-## Hi there 👋
+![:fire:My GitHub journey so far...](https://github-readme-stats.vercel.app/api?username=densandor&show_icons=true&bg_color=00000000)
 
 <!--
 **densandor/densandor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
